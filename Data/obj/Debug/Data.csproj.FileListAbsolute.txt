@@ -1,0 +1,11 @@
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\Data.dll.config
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\Data.dll
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\Data.pdb
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\EntityFramework.dll
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\EntityFramework.xml
+D:\Projetos\minhas-financas-wf\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\minhas-financas-wf\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Projetos\minhas-financas-wf\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Projetos\minhas-financas-wf\Data\obj\Debug\Data.dll
+D:\Projetos\minhas-financas-wf\Data\obj\Debug\Data.pdb
